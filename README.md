@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a website that is used for climbing registration by implementing a unit test, CI/CD, and Payment Gateway using Midtrans.](mountler.com)
 
-- 🌱 I’m currently learning **Nest Js, Next Js, and React Native**
+- 🌱 I’m currently learning **Typescript, Laravel, and Tailwind**
 
 - 👯 I’m looking to collaborate on [nanostackweb](nanostackweb.vercel.app)
 
